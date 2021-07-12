@@ -1,2 +1,2 @@
 # Evil_circle
-Evil_circle game
+Evil_circle game (MDN)
